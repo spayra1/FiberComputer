@@ -1,2 +1,2 @@
 # FiberComputer
- Prototyping and planning
+ Prototyping and planning. WIP
